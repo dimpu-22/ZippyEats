@@ -5,13 +5,17 @@ client/node_modules/
 
 # Environment variables
 .env
-backend/.env
+**/.env
+.env.*
+**/.env.*
 
 # Build output
 client/dist/
+dist/
 
 # Logs
 npm-debug.log*
+*.log
 
 # VS Code
 .vscode/
