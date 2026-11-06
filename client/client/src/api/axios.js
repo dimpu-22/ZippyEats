@@ -1,7 +1,7 @@
 import axios from "axios";
 
-const API = axios.create({
-  baseURL: "https://zippyeats-backend-glqy.onrender.com/api",
+const api = axios.create({
+  baseURL: "https://zippy-eats-2zxc.vercel.app/api",
 });
 
-export default API;
+export default api;

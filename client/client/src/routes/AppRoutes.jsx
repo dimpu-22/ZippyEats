@@ -25,7 +25,7 @@ import AdminUsers from "../pages/Admin/Users";
 import AdminLayout from "../layouts/AdminLayout";
 
 // ===================== Protected Route =====================
-import ProtectedRoute from "../components/auth/protectedRoute.jsx";
+import ProtectedRoute from "../components/auth/protectedRoute.jsx";import ProtectedRoute from "../components/auth/protectedRoute.jsx";
 const AppRoutes = () => {
   return (
     <Routes>

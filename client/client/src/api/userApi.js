@@ -1,6 +1,5 @@
 import api from "./api";
 
-// Get Logged-in User
 export const getProfile = async () => {
   const token = localStorage.getItem("token");
 
